@@ -16,23 +16,23 @@ Software and DevOps Engineer
 
 ## Projects
 
-# MeltShiny | R, YAML							 	                            
+### MeltShiny | R, YAML							 	                            
 -	Programmed interactive data visualizations utilizing Plotly in R to dynamically display graphs and tables data. 
 -	Implemented various UI/UX enhancements utilizing Shiny framework to improve overall GUI functionality.
 -	Established GitHub workflows leveraging continuous integration tools super linter to automatically run tests.
 -	Automated building & deployment of the app the ShinyApps through GitHub Actions pipeline for seamless delivery.
 
-# Plebiscito | Python, R									             
+### Plebiscito | Python, R									             
 -	Collaborated with two Ph.D. students on cutting-edge research focused distributed allocation of HPC jobs.
 -	Designed and implemented FIFO, SJF, and DWF algorithms optimizing job queuing for machine learning job jobs.
 -	Expertly benchmarked machine learning models and jobs to study runtime statistics and algorithmic complexity.
 -	Built interactive visualizations to simulate performance of sorting algorithms and generated comparative data.
 
-# Stallion | Flutter, Dart 								                                 
+### Stallion | Flutter, Dart 								                                 
 -	Actively engaged in the development of cross-platform mobile application aimed at distribution of personal music. 
 -	Employing a category-based system enhancing user experience browsing and listening to different song genres.
 
-# Memory Game | Java, Java Swing, Gradle 			                                                     
+### Memory Game | Java, Java Swing, Gradle 			                                                     
 -	Spearheaded graphical interface design, organizing meetings to integrate feedback for optimal user experience.
 -	Optimized code for performance, readability, and usability using the Model View Controller architecture.
 
