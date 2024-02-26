@@ -4,12 +4,12 @@
 I am a final-year computer science student at Saint Louis University University, passionate about exploring the convergences of CI/CD pipeline automation and security within the realm of DevSecOps. 
 
 ## Experiences
-Undergraduate Research Assistant								 
+### Undergraduate Research Assistant								 
 -	Implemented various cutting-edge approximation algorithms tailored for the distributed allocation of HPC jobs.
 -	Led the integration and optimization methodologies into sorting machine learning jobs, doubling sorting speed.
 -	Conducted extensive research to evaluate and compare the performance of various approximation algorithms. 
 
-Software and DevOps Engineer							                                  
+### Software and DevOps Engineer							                                  
 -	Specialized in the Software Development lifecycle for MeltShiny project, authoring front and back-end code using R.
 -	Established reusable GitHub workflows for continuous integration across codebases, enabling automatic testing.
 -	Championed optimal CI/CD pipelines by strategically leveraging GitHub Actions tools to help with infrastructure.
