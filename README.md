@@ -3,9 +3,44 @@
 # About Me:
 I am a final-year computer science student at Saint Louis University University, passionate about exploring the convergences of CI/CD pipeline automation and security within the realm of DevSecOps. 
 
+## Experiences
+Undergraduate Research Assistant								 
+•	Implemented various cutting-edge approximation algorithms tailored for the distributed allocation of HPC jobs.
+•	Led the integration and optimization methodologies into sorting machine learning jobs, doubling sorting speed.
+•	Conducted extensive research to evaluate and compare the performance of various approximation algorithms. 
+
+Software and DevOps Engineer							                                  
+•	Specialized in the Software Development lifecycle for MeltShiny project, authoring front and back-end code using R.
+•	Established reusable GitHub workflows for continuous integration across codebases, enabling automatic testing.
+•	Championed optimal CI/CD pipelines by strategically leveraging GitHub Actions tools to help with infrastructure.
+
+## Projects
+
+# MeltShiny | R, YAML							 	                            
+•	Programmed interactive data visualizations utilizing Plotly in R to dynamically display graphs and tables data. 
+•	Implemented various UI/UX enhancements utilizing Shiny framework to improve overall GUI functionality.
+•	Established GitHub workflows leveraging continuous integration tools super linter to automatically run tests.
+•	Automated building & deployment of the app the ShinyApps through GitHub Actions pipeline for seamless delivery.
+
+# Plebiscito | Python, R									             
+•	Collaborated with two Ph.D. students on cutting-edge research focused distributed allocation of HPC jobs.
+•	Designed and implemented FIFO, SJF, and DWF algorithms optimizing job queuing for machine learning job jobs.
+•	Expertly benchmarked machine learning models and jobs to study runtime statistics and algorithmic complexity.
+•	Built interactive visualizations to simulate performance of sorting algorithms and generated comparative data.
+
+# Stallion | Flutter, Dart 								                                 
+•	Actively engaged in the development of cross-platform mobile application aimed at distribution of personal music. 
+•	Employing a category-based system enhancing user experience browsing and listening to different song genres.
+
+# Memory Game | Java, Java Swing, Gradle 			                                                     
+•	Spearheaded graphical interface design, organizing meetings to integrate feedback for optimal user experience.
+•	Optimized code for performance, readability, and usability using the Model View Controller architecture.
+
+
+
 ## What I'm Up To
 
-- Currently learning AWS and DevOps tools! 
+• Currently learning AWS and DevOps tools! 
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimo-evelti-1563b424b/)
