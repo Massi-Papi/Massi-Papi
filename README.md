@@ -5,8 +5,7 @@ I am a final-year computer science student at Saint Louis University University,
 
 ## What I'm Up To
 
-- Currently 
-- Learning AWS and DevOps tools! 
+- Currently learning AWS and DevOps tools! 
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimo-evelti-1563b424b/)
