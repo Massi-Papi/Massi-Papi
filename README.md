@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Massimo</h1>
+<h1 align="center">Hi, I'm Massimo</h1>
 
 # About Me:
 I am a final-year computer science student at Saint Louis University University, passionate about exploring the convergences of CI/CD pipeline automation and security within the realm of DevSecOps. 
