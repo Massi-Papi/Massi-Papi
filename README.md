@@ -8,8 +8,6 @@ I am a final-year computer science student at Saint Louis University University,
 - Currently 
 - Learning AWS and DevOps tools! 
 
-Check out my [coding portfolio!]()
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimo-evelti-1563b424b/)
 
