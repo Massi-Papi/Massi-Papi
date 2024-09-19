@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Massimo</h1>
 
 # About Me:
-I am a final-year computer science student at Saint Louis University University, passionate about exploring the convergences of CI/CD pipeline automation and security within the realm of DevSecOps. 
+I am a recent computer science graduate from Saint Louis University University, aspiring cybersecurity professional with experience in encryption, password analysis, and steganography. Proficient in C++, Java, Python, and R. Holds CompTIA Security+ certification, pursuing CySA+. Extremely eager to apply skills in data protection and security analysis. Strong problem-solver with teamwork abilities. Equally as assionate about exploring the convergences of CI/CD pipeline automation and security within the realm of DevSecOps. Currently holding AZ-900
 
 ## Experiences
 ### Undergraduate Research Assistant								 
@@ -40,7 +40,7 @@ I am a final-year computer science student at Saint Louis University University,
 
 ## What I'm Up To
 
-- Currently learning AWS and DevOps tools! 
+- Currently studying CySA+, Red Teaming on TryHackMe, and learning AWS and DevOps tools! 
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimo-evelti-1563b424b/)
@@ -60,6 +60,7 @@ Developer Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Azure] (https://img.shields.io
 
 Libraries/Frameworks: 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
