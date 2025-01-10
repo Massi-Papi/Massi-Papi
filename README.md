@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Massimo</h1>
 
 # About Me:
-I am a recent computer science graduate from Saint Louis University University, aspiring cybersecurity professional with experience in encryption, password analysis, and steganography. Proficient in C++, Java, Python, and R. Holds CompTIA Security+ certification, pursuing CySA+. Extremely eager to apply skills in data protection and security analysis. Strong problem-solver with teamwork abilities. Equally as assionate about exploring the convergences of CI/CD pipeline automation and security within the realm of DevSecOps. Currently holding AZ-900
+I am a recent computer science graduate from Saint Louis University University, aspiring cybersecurity professional with experience in encryption, password analysis, and steganography. Proficient in C++, Java, Python, and R. Holds CompTIA Security+ certification. Extremely eager to apply skills in data protection and security analysis. Strong problem-solver with teamwork abilities. Equally as assionate about exploring the convergences of CI/CD pipeline automation and security within the realm of DevSecOps. Currently holding AZ-900
 
 ## Experiences
 ### Undergraduate Research Assistant								 
